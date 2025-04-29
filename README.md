@@ -83,16 +83,5 @@ Simulated real-world traffic scenarios.
 
 Adjusted traffic light durations based on congestion and emergency vehicle detection.
 
-Authors
-Shahenaz Almalki
-
-Yara Alkindi
-
-Rama Shobokshi
-
-Ahlam Farouq Lin
-
-Supervisor: Dr. Sahar Sabbeh
-
 ✨ Thank you for visiting!
 Feel free to explore the project, and reach out for any questions or collaborations!
